@@ -1,5 +1,6 @@
 package Lv1;
 
+import java.util.ArrayList;
 import java.util.Collections;
 
 public class 실패율 {
