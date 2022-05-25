@@ -2,6 +2,7 @@ package Lv1;
 
 public class 하샤드수 {
 
+    
     public static boolean solution(int x) {
 
         boolean answer = true;
